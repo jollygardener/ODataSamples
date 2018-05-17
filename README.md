@@ -25,3 +25,5 @@ To report bugs and require features, please use our [issue tracker](https://gith
 
 ###Mailing list
 For more questions about TripPin and OData, please use the [OData Mailling List](http://www.odata.org/join-the-odata-discussion/)
+
+Minor change
